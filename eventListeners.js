@@ -93,3 +93,4 @@ exports.sse = null;
 // export your own functions here as well
 exports.handleBlinkingStateChanged = handleBlinkingStateChanged;
 exports.handleButtonStateChanged = handleButtonStateChanged;
+exports.handleMotionDetected = handleMotionDetected;
